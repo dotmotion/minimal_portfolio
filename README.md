@@ -22,3 +22,11 @@
 - [x] Create Projects data file
 - [ ] Change bottom half background and top half h2 text color to cycle between shades of gray and white
 - [ ] subtle hover effects on hover for the links
+
+### Notes
+
+- #16191b dark
+- #e2e6e8 light
+
+![Landing Page Mockup](/mockups/LandingPage.png)
+![Link Component Mockup](/mockups/LinkComponent.png)
