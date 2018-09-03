@@ -19,9 +19,10 @@ export const projects = [
   {
     //Photographer Portfolio
     id: 3,
-    text: "Photography Portfolio",
-    description: "TBD",
-    repo: "URL",
-    web: "URL"
+    text: "Herbalizer",
+    description:
+      "List of cards that can be filtered with a search bar. Build with React",
+    repo: "https://github.com/dotmotion/Herbalizer",
+    web: "https://dotmotion.github.io/Herbalizer/"
   }
 ];
