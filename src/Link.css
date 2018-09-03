@@ -1,27 +1,29 @@
 .grid-container {
   display: grid;
   height: 100%;
+  /* max-width: ; */
   grid-template-columns: 1.6fr 0.4fr;
   grid-template-rows: 1fr 1fr;
-  grid-gap: 1px 100px;
+  grid-gap: 1px 1px;
   grid-template-areas: "text web" "description repo";
-  margin: 300px;
+  /* margin: 300px; */
   padding: 2rem;
 
-  background: #16191b;
-  color: #e2e6e8;
+  background: #e2e6e8;
+  color: #16191b;
 }
 
 .text {
   grid-area: text;
   font-size: 2.8rem;
-  border: 3px solid purple;
+  /* border: 3px solid purple; */
   width: auto;
 }
 
 .description {
   grid-area: description;
-  border: 3px solid green;
+  /* border: 3px solid green; */
+  font-size: 1.8rem;
 }
 
 .web {
@@ -29,7 +31,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 3px solid red;
+  /* border: 3px solid red; */
   width: auto;
   height: auto;
 }
@@ -39,14 +41,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  border: 3px solid blue;
+  /* border: 3px solid blue; */
 }
 
-.icons {
-  display: grid;
-  grid-area: icons;
-  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 1fr;
-  grid-gap: 1px 1px;
-  grid-template-areas: "1 2 3 4 5";
+.logo {
+  width: 100px;
+  height: 100px;
 }
