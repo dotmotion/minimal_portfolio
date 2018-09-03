@@ -20,5 +20,5 @@
 ###### Other
 
 - [x] Create Projects data file
-- [ ] Change bottom half background and top half <h2> text color to cycle between shades of gray and white
+- [ ] Change bottom half background and top half h2 text color to cycle between shades of gray and white
 - [ ] subtle hover effects on hover for the links
