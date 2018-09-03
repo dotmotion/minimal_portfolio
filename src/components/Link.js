@@ -1,7 +1,7 @@
 import React from "react";
-import Eye from "./Eye-dark.svg";
-import Code from "./Code-dark.svg";
-import "./Link.css";
+import Eye from "../img/Eye-dark.svg";
+import Code from "../img/Code-dark.svg";
+import "../css/Link.css";
 
 const Link = ({ text, description, repo, web }) => {
   return (
