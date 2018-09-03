@@ -1,0 +1,5 @@
+footer {
+  top: -3rem;
+  background: #e2e6e8;
+  z-index: 99 !important;
+}
