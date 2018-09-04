@@ -4,8 +4,6 @@
   "private": true,
   "homepage": "https://dotmotion.github.io/minimal_portfolio/",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.4",
-    "@fortawesome/free-solid-svg-icons": "^5.3.1",
     "gh-pages": "^1.2.0",
     "react": "^16.4.2",
     "react-dom": "^16.4.2",
