@@ -6,15 +6,15 @@
 
 ###### Components
 
-- [ ] Top Component: initial landing page
-- [ ] Bottom Component: portfolio links and footer (Footer should contain a link to download CV)
-- [ ] Link Component Basics: link text, link description, link to code, link to live app
-- [ ] Link Component Advanced: Populate from JSON file,
+- [x] Top Component: initial landing page
+- [x] Bottom Component: portfolio links and footer (Footer should contain a link to download CV)
+- [x] Link Component Basics: link text, link description, link to code, link to live app
+- [x] Link Component Advanced: Populate from JSON file,
 
 ###### Style
 
-- [ ] Top Component shouldn't scroll but must show a bit of the Bottom Component (90% vH)
-- [ ] Bottom Component will have inverted colors from Top Component to show links to projects and stuff
+- [x] Top Component shouldn't scroll but must show a bit of the Bottom Component (90% vH)
+- [x] Bottom Component will have inverted colors from Top Component to show links to projects and stuff
 - [ ] Link text displays link description onClick (maybe sprites of tools used in project)
 
 ###### Other
