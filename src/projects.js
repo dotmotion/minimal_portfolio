@@ -1,15 +1,7 @@
 export const projects = [
   {
-    //Modern Portfolio
-    id: 1,
-    text: "Modern Portfolio",
-    description: "Portfolio website created with HTML5 SASS and JavaScript",
-    repo: "https://github.com/dotmotion/portfolio",
-    web: "http://outon.mx"
-  },
-  {
     //Budjet App
-    id: 2,
+    id: 1,
     text: "Budget App",
     description:
       "Simple Budget application made with Vainilla JavaScript, HTML5 and CSS3",
@@ -18,11 +10,19 @@ export const projects = [
   },
   {
     //Photographer Portfolio
-    id: 3,
+    id: 2,
     text: "Herbalizer",
     description:
-      "List of cards that can be filtered with a search bar. Build with React",
+      "List of cards that can be filtered with a search bar. Built with React",
     repo: "https://github.com/dotmotion/Herbalizer",
     web: "https://dotmotion.github.io/Herbalizer/"
+  },
+  {
+    //Modern Portfolio
+    id: 3,
+    text: "Modern Portfolio",
+    description: "Portfolio website created with HTML5 SASS and JavaScript",
+    repo: "https://github.com/dotmotion/portfolio",
+    web: "http://outon.mx"
   }
 ];
