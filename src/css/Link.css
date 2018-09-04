@@ -1,3 +1,9 @@
+p,
+h2 {
+  margin: 0;
+  padding: 1rem;
+}
+
 .grid-container {
   display: grid;
   height: 100%;
@@ -23,7 +29,7 @@
 .description {
   grid-area: description;
   /* border: 3px solid green; */
-  font-size: 1.8rem;
+  font-size: 1.3rem;
 }
 
 .web {
@@ -45,6 +51,6 @@
 }
 
 .logo {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
