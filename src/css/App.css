@@ -1,25 +1,76 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono");
+
 .App {
-  text-align: center;
+  font-family: "Roboto Mono", monospace;
+  font-size: 19px;
+  background: #e2e6e8;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 80px;
+header {
+  z-index: 0 !important;
+  background: #16191b;
+  color: #e2e6e8;
+  overflow: hidden;
 }
 
-.App-header {
-  background-color: #222;
-  height: 150px;
-  padding: 20px;
-  color: white;
+h2 {
+  font-size: 2.8rem;
+  margin: 0, 0.5rem;
+  line-height: 4rem;
 }
 
-.App-title {
-  font-size: 1.5em;
+h4 {
+  padding-right: 2rem;
 }
 
-.App-intro {
-  font-size: large;
+a {
+  text-decoration: none;
+  cursor: pointer;
+  color: #797c7e;
+  font-size: 19px;
+}
+
+.about {
+  height: 96vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile {
+  position: fixed;
+  z-index: 0;
+}
+
+footer {
+  top: -3rem;
+  background: #e2e6e8;
+  position: relative;
+  z-index: 99 !important;
+}
+
+footer ul {
+  list-style: none;
+  margin: 0;
+  padding: 200px 200px 50px 200px;
+}
+
+.contact {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background: #e2e6e8;
+  padding-bottom: 3rem;
+  bottom: -3rem;
 }
 
 @keyframes App-logo-spin {
@@ -33,4 +84,17 @@
 
 ul {
   list-style: none;
+}
+
+.info {
+  padding: 0;
+}
+
+.inline li {
+  display: inline-block;
+  margin-right: 2rem;
+}
+
+.inline li:last-child {
+  margin-right: 0;
 }
