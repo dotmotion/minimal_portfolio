@@ -81,7 +81,11 @@ class App extends Component {
                   </a>
                 </li>
                 <li>
-                  <a target="blank" className="contact-link" href="#">
+                  <a
+                    target="blank"
+                    className="contact-link"
+                    href="http://outon.mx/CV_ENG.pdf"
+                  >
                     Download CV
                   </a>
                 </li>
