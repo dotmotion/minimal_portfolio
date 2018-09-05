@@ -28,5 +28,7 @@
 - #16191b dark
 - #e2e6e8 light
 
+##### pre-build wireframe mockups
+
 ![Landing Page Mockup](/mockups/LandingPage.png)
 ![Link Component Mockup](/mockups/LinkComponent.png)
