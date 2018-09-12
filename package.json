@@ -5,7 +5,8 @@
   "homepage": "https://dotmotion.github.io/minimal_portfolio/",
   "dependencies": {
     "gh-pages": "^1.2.0",
-    "react": "^16.4.2",
+    "react": "^16.5.0",
+    "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.4.2",
     "react-scripts": "1.1.5"
   },
