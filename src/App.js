@@ -31,9 +31,9 @@ class App extends Component {
                     <a
                       target="blank"
                       className="social-link"
-                      href="https://twitter.com/half_liquid"
+                      href="https://github.com/dotmotion"
                     >
-                      Twitter
+                      GitHub
                     </a>
                   </li>
                   <li>
@@ -49,9 +49,9 @@ class App extends Component {
                     <a
                       target="blank"
                       className="social-link"
-                      href="https://github.com/dotmotion"
+                      href="https://twitter.com/half_liquid"
                     >
-                      GitHub
+                      Twitter
                     </a>
                   </li>
                   <li>
