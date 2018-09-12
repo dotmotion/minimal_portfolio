@@ -1,9 +1,18 @@
 import React, { Component } from "react";
+import { CopyToClipboard } from "react-copy-to-clipboard";
 import LinkList from "./components/LinkList";
 import { projects } from "./projects";
 import "./css/App.css";
 
 class App extends Component {
+  constructor() {
+    super();
+    this.state = {
+      value: "outon.x@gmail.com",
+      copied: false
+    };
+  }
+
   render() {
     return (
       <div className="App">
@@ -76,9 +85,11 @@ class App extends Component {
                   </a>
                 </li>
                 <li>
-                  <a className="contact-link" href="mailto:outon.x@gmail.com">
-                    Email
-                  </a>
+                  <CopyToClipboard text="outon.x@gmail.com">
+                    <a className="contact-link" href="javascript:void(0)">
+                      Email
+                    </a>
+                  </CopyToClipboard>
                 </li>
                 <li>
                   <a
