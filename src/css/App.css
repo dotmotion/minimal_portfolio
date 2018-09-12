@@ -30,6 +30,13 @@ a {
   font-size: 19px;
 }
 
+span {
+  text-decoration: none;
+  cursor: pointer;
+  color: #797c7e;
+  font-size: 19px;
+}
+
 .about {
   height: 96vh;
   display: flex;
