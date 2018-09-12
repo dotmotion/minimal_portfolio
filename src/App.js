@@ -20,11 +20,8 @@ class App extends Component {
         <header className="about">
           <div className="inner clearfix">
             <div className="profile">
-              <h2>
-                Andrés Outón,
-                <br />
-                Self-taught Web Developer
-              </h2>
+              <h2>Andrés Outón,</h2>
+              <h2 className="cursor typewriter">Self-taught Web Developer</h2>
               <nav className="social">
                 <ul className="inline">
                   <li>
@@ -102,7 +99,7 @@ class App extends Component {
                       );
                     }}
                   >
-                    <span>Email</span>
+                    <span className="email">Email</span>
                   </CopyToClipboard>
                 </li>
                 <li>
