@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import { CopyToClipboard } from "react-copy-to-clipboard";
+import Notifications, { notify } from "react-notify-toast";
 import LinkList from "./components/LinkList";
 import { projects } from "./projects";
 import "./css/App.css";
@@ -68,6 +69,7 @@ class App extends Component {
           </div>
         </header>
         <footer>
+          <Notifications options={{ bottom: "0" }} />
           <ul>
             <LinkList links={projects} />
           </ul>
@@ -85,10 +87,22 @@ class App extends Component {
                   </a>
                 </li>
                 <li>
-                  <CopyToClipboard text="outon.x@gmail.com">
-                    <a className="contact-link" href="javascript:void(0)">
-                      Email
-                    </a>
+                  <CopyToClipboard
+                    text="outon.x@gmail.com"
+                    onCopy={() => {
+                      let myColor = {
+                        background: "#16191b",
+                        text: "#e2e6e8"
+                      };
+                      notify.show(
+                        "Email copied to clipboard!",
+                        "custom",
+                        3000,
+                        myColor
+                      );
+                    }}
+                  >
+                    <span>Email</span>
                   </CopyToClipboard>
                 </li>
                 <li>
