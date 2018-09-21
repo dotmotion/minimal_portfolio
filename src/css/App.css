@@ -6,13 +6,6 @@
   background: #e2e6e8;
 }
 
-header {
-  z-index: 0 !important;
-  background: #16191b;
-  color: #e2e6e8;
-  overflow: hidden;
-}
-
 h2 {
   font-size: 2.8rem;
   margin: 0, 0.5rem;
@@ -31,23 +24,20 @@ a {
   font-size: 19px;
 }
 
-.email {
-  text-decoration: none;
-  cursor: pointer;
-  color: #797c7e;
-  font-size: 19px;
+ul {
+  list-style: none;
+}
+
+header {
+  z-index: 0 !important;
+  background: #16191b;
+  color: #e2e6e8;
+  overflow: hidden;
 }
 
 .about {
   height: 96vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.inner {
-  position: relative;
-  overflow: hidden;
+  width: 100vw;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -59,14 +49,35 @@ a {
   width: 710px;
 }
 
-footer {
-  top: -3rem;
+.email {
+  text-decoration: none;
+  cursor: pointer;
+  color: #797c7e;
+  font-size: 19px;
+}
+
+.inner {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+main {
   background: #e2e6e8;
   position: relative;
   z-index: 99 !important;
+  margin-top: -3rem;
 }
 
-footer ul {
+main ul {
   list-style: none;
   margin: 0;
   padding: 200px 200px 50px 200px;
@@ -78,12 +89,7 @@ footer ul {
   width: 100%;
   height: 100px;
   background: #e2e6e8;
-  padding-bottom: 3rem;
   bottom: -3rem;
-}
-
-ul {
-  list-style: none;
 }
 
 .info {
@@ -98,6 +104,8 @@ ul {
 .inline li:last-child {
   margin-right: 0;
 }
+
+/* Animations */
 
 .typewriter {
   animation: typewriter 3s steps(40) 1s 1 normal both,
@@ -132,4 +140,81 @@ ul {
   to {
     border-right-color: transparent;
   }
+}
+
+/* Canvas Page */
+.wrapper {
+  background: #e2e6e8;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 3;
+}
+
+/* media queries */
+@media screen and (max-width: 510px) {
+  h4 {
+    padding-right: 10px;
+    font-size: 1rem;
+  }
+
+  .contact-link {
+    font-size: 1rem;
+  }
+
+  .inline li {
+    margin-right: 10px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  h2 {
+    font-size: 2rem;
+  }
+
+  main ul {
+    padding: 10px;
+  }
+
+  .grid-container {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 0.5fr 0.5fr 1.5fr;
+    grid-gap: 1px 1px;
+    grid-template-areas: "text text" "web repo" "description description";
+  }
+  .text {
+    justify-content: center;
+  }
+
+  .typewriter {
+    animation: none;
+  }
+  .cursor {
+    border-right: 0;
+  }
+
+  .profile {
+    width: 500px;
+  }
+}
+
+@media screen and (min-width: 769px) and (max-width: 1170px) {
+  h2 {
+    font-size: 2rem;
+  }
+
+  main ul {
+    padding: 30px;
+  }
+
+  .profile {
+    width: 510px;
+  }
+}
+
+@media screen and (min-width: 1171px) {
 }
