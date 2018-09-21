@@ -33,6 +33,21 @@ const Canvas = () => {
             Particle Interaction
           </a>
         </li>
+        <li>
+          <a href="http://outon.mx/canvas5.html" target="frame">
+            Connecting Lines
+          </a>
+        </li>
+        <li>
+          <a href="http://outon.mx/canvas6.html" target="frame">
+            Fireworks
+          </a>
+        </li>
+        <li>
+          <a href="http://outon.mx/canvas7.html" target="frame">
+            Particle Generator
+          </a>
+        </li>
       </ul>
     </div>
   );
