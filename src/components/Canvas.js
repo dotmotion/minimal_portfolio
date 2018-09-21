@@ -3,12 +3,12 @@ import React from "react";
 const Canvas = () => {
   return (
     <div className="wrapper">
+      <h2>Canvas Experiments</h2>
       <iframe
         id="canvas"
         name="frame"
         src="http://outon.mx/canvas1.html"
-        width="600"
-        height="400"
+        height="500"
         frameborder="0"
         scrolling="no"
       />
