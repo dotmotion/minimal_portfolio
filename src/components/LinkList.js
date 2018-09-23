@@ -3,7 +3,7 @@ import Link from "./Link";
 
 const LinkList = ({ links }) => {
   return (
-    <div className="linkList">
+    <ul className="linkList">
       {links.map((link, i) => {
         return (
           <Link
@@ -15,7 +15,7 @@ const LinkList = ({ links }) => {
           />
         );
       })}
-    </div>
+    </ul>
   );
 };
 
