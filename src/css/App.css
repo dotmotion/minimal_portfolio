@@ -4,6 +4,19 @@
   font-family: "Roboto Mono", monospace;
   font-size: 19px;
   background: #e2e6e8;
+  overflow-x: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
 
 h2 {
@@ -28,25 +41,13 @@ ul {
   list-style: none;
 }
 
-header {
-  z-index: 0 !important;
-  background: #16191b;
-  color: #e2e6e8;
-  overflow: hidden;
+.inline li {
+  display: inline-block;
+  margin-right: 2rem;
 }
 
-.about {
-  height: 96vh;
-  width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.profile {
-  position: fixed;
-  z-index: 0;
-  width: 710px;
+.inline li:last-child {
+  margin-right: 0;
 }
 
 .email {
@@ -54,6 +55,19 @@ header {
   cursor: pointer;
   color: #797c7e;
   font-size: 19px;
+}
+
+/* HEADER */
+header {
+  z-index: 0 !important;
+  background: #16191b;
+  color: #e2e6e8;
+  overflow: hidden;
+  height: 96vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .inner {
@@ -64,44 +78,10 @@ header {
   align-items: center;
 }
 
-.text {
-  display: flex;
-  justify-content: flex-start;
-  align-items: center;
-}
-
-main {
-  background: #e2e6e8;
-  position: relative;
-  z-index: 99 !important;
-  margin-top: -3rem;
-}
-
-main ul {
-  list-style: none;
-  margin: 0;
-  padding: 200px 200px 50px 200px;
-}
-
-.contact {
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  height: 100px;
-  background: #e2e6e8;
-}
-
-.info {
-  padding: 0;
-}
-
-.inline li {
-  display: inline-block;
-  margin-right: 2rem;
-}
-
-.inline li:last-child {
-  margin-right: 0;
+.profile {
+  position: fixed;
+  z-index: 0;
+  width: 710px;
 }
 
 /* Animations */
@@ -116,7 +96,7 @@ main ul {
   top: 50%;
   padding-left: 5px;
   margin-left: -5px;
-  width: 55em;
+  /* width: 55em; */
   border-right: 2px solid #e2e6e8;
   text-align: left;
   white-space: nowrap;
@@ -128,7 +108,7 @@ main ul {
     width: 0;
   }
   to {
-    width: 15.6em;
+    width: 100%;
   }
 }
 
@@ -141,7 +121,99 @@ main ul {
   }
 }
 
-/* Canvas Page */
+/* LINK */
+
+.grid-container {
+  display: grid;
+  height: 100%;
+  /* max-width: ; */
+  grid-template-columns: 1.6fr 0.4fr;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 1px 1px;
+  grid-template-areas: "text web" "description repo";
+  /* margin: 300px; */
+  padding: 2rem;
+
+  background: #e2e6e8;
+  color: #16191b;
+}
+
+.text {
+  grid-area: text;
+  font-size: 2.8rem;
+  width: auto;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.text p h2 {
+  margin: 0;
+  padding: 1rem;
+}
+
+.description {
+  grid-area: description;
+  /* border: 3px solid green; */
+  font-size: 1.3rem;
+}
+
+.web {
+  grid-area: web;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 3px solid red; */
+  width: auto;
+  height: auto;
+}
+
+.repo {
+  grid-area: repo;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* border: 3px solid blue; */
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+/* CONTENT */
+main {
+  background: #e2e6e8;
+  position: relative;
+  z-index: 99 !important;
+  margin-top: -3rem;
+}
+
+main ul {
+  list-style: none;
+  margin: 0;
+  padding: 200px 200px 50px 200px;
+}
+*/
+
+/* FOOTER */
+footer {
+  padding: 10px;
+}
+
+.contact {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background: #e2e6e8;
+}
+
+.info {
+  padding: 0;
+}
+
+/* CANVAS */
 .wrapper {
   background: #e2e6e8;
   margin: 0;
@@ -154,21 +226,11 @@ main ul {
   z-index: 3;
 }
 
-/* media queries */
-@media screen and (max-width: 510px) {
-  h4 {
-    padding-right: 10px;
-    font-size: 1rem;
-  }
-
-  .contact-link {
-    font-size: 1rem;
-  }
-
-  .inline li {
-    margin-right: 10px;
-  }
+#canvas {
+  width: 65vw;
 }
+
+/* media queries */
 
 @media screen and (max-width: 768px) {
   h2 {
@@ -187,6 +249,7 @@ main ul {
   }
   .text {
     justify-content: center;
+    text-align: center;
   }
 
   .typewriter {
@@ -215,5 +278,46 @@ main ul {
   }
 }
 
-@media screen and (min-width: 1171px) {
+@media screen and (max-width: 640px) {
+  h4 {
+    padding-right: 10px;
+    font-size: 1rem;
+  }
+
+  .contact-link {
+    font-size: 1rem;
+  }
+
+  .inline {
+    display: flex;
+    align-content: space-around;
+  }
+
+  .inline li {
+    margin-right: 10px;
+    display: block;
+    padding: 0;
+  }
+
+  main ul {
+    padding: auto;
+    margin: 0;
+  }
+
+  .profile {
+    width: 100vw;
+  }
+
+  .cursor {
+    width: auto;
+    white-space: normal;
+  }
+
+  .grid-container {
+    padding: 0;
+  }
+
+  footer {
+    flex-direction: column;
+  }
 }
