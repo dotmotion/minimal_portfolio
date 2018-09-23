@@ -1,12 +1,12 @@
 import React from "react";
 import { CopyToClipboard } from "react-copy-to-clipboard";
-import Notifications, { notify } from "react-notify-toast";
+import { notify } from "react-notify-toast";
 
 const Footer = () => {
   return (
     <footer className="inner contact">
       <h4>Ways to contact me:</h4>
-      <nav className="social">
+      <nav>
         <ul className="inline info">
           <li>
             <a

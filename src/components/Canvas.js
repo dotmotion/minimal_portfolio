@@ -5,6 +5,7 @@ const Canvas = () => {
     <div className="wrapper">
       <h2>Canvas Experiments</h2>
       <iframe
+        title="Canvas"
         id="canvas"
         name="frame"
         src="http://outon.mx/canvas1.html"
