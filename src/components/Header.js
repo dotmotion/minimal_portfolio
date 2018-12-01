@@ -24,11 +24,11 @@ const Header = () => {
                   Twitter
                 </a>
               </li>
-              <li>
+              {/* <li>
                 <a target="blank" href="http://dotmotion.outon.mx/">
                   Blog
                 </a>
-              </li>
+              </li> */}
             </ul>
           </nav>
         </div>
