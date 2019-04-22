@@ -1,0 +1,762 @@
+{
+  "2015": [
+    {
+      "img": "https://images.gr-assets.com/books/1413706054l/18007564.jpg",
+      "title": "The Martian by Andy Weir",
+      "url": "/book/show/18007564-the-martian"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1353277730l/11588.jpg",
+      "title": "The Shining by Stephen King",
+      "url": "/book/show/11588.The_Shining"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1500930947l/9969571.jpg",
+      "title": "Ready Player One by Ernest Cline",
+      "url": "/book/show/9969571-ready-player-one"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1554086139l/19288043.jpg",
+      "title": "Gone Girl by Gillian Flynn",
+      "url": "/book/show/19288043-gone-girl"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1531891848l/11.jpg",
+      "title": "The Hitchhiker's Guide to the Galaxy by Douglas Adams",
+      "url": "/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1386924169l/217868.jpg",
+      "title": "A Rock and a Hard Place by Peter David",
+      "url": "/book/show/217868.A_Rock_and_a_Hard_Place"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1326078470l/217878.jpg",
+      "title": "Imbalance by V.E. Mitchell",
+      "url": "/book/show/217878.Imbalance"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1477624625l/830.jpg",
+      "title": "Snow Crash by Neal Stephenson",
+      "url": "/book/show/830.Snow_Crash"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1390179189l/18616975.jpg",
+      "title": "Off to Be the Wizard by Scott  Meyer",
+      "url": "/book/show/18616975-off-to-be-the-wizard"
+    }
+  ],
+  "2016": [
+    {
+      "img": "https://images.gr-assets.com/books/1395612093l/21483760.jpg",
+      "title": "Spell or High Water by Scott  Meyer",
+      "url": "/book/show/21483760-spell-or-high-water"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1339772530l/15701981.jpg",
+      "title": "Critical Failures by Robert Bevan",
+      "url": "/book/show/15701981-critical-failures"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1381823436l/18667253.jpg",
+      "title": "Critical Failures II by Robert Bevan",
+      "url": "/book/show/18667253-critical-failures-ii"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1408842353l/22963010.jpg",
+      "title": "Critical Failures III by Robert Bevan",
+      "url": "/book/show/22963010-critical-failures-iii"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1448256890l/27880863.jpg",
+      "title": "Critical Failures IV by Robert Bevan",
+      "url": "/book/show/27880863-critical-failures-iv"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1379029486l/18484851.jpg",
+      "title": "d6 by Robert Bevan",
+      "url": "/book/show/18484851-d6"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1400145096l/22092454.jpg",
+      "title": "2d6 by Robert Bevan",
+      "url": "/book/show/22092454-2d6"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1429499207l/25392419.jpg",
+      "title": "3d6 by Robert Bevan",
+      "url": "/book/show/25392419-3d6"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1472176830l/31682001.jpg",
+      "title": "4d6 by Robert Bevan",
+      "url": "/book/show/31682001-4d6"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1400095217l/22088245.jpg",
+      "title": "NPCs by Drew  Hayes",
+      "url": "/book/show/22088245-npcs"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1437050967l/25920141.jpg",
+      "title": "Split the Party by Drew  Hayes",
+      "url": "/book/show/25920141-split-the-party"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1474117787l/32064513.jpg",
+      "title": "Going Rogue by Drew  Hayes",
+      "url": "/book/show/32064513-going-rogue"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1402987267l/22500562.jpg",
+      "title": "Fimbulwinter by E. William Brown",
+      "url": "/book/show/22500562-fimbulwinter"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1432735206l/25463180.jpg",
+      "title": "Black Coven by E. William Brown",
+      "url": "/book/show/25463180-black-coven"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1446993803l/27677891.jpg",
+      "title": "Extermination by E. William Brown",
+      "url": "/book/show/27677891-extermination"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1328031412l/12031366.jpg",
+      "title": "Prince of Thorns by Mark  Lawrence",
+      "url": "/book/show/12031366-prince-of-thorns"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1336069300l/71458.jpg",
+      "title": "Stupeur et tremblements by Amélie Nothomb",
+      "url": "/book/show/71458.Stupeur_et_tremblements"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1347354593l/71457.jpg",
+      "title": "The Character of Rain by Amélie Nothomb",
+      "url": "/book/show/71457.The_Character_of_Rain"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1492701281l/6563889.jpg",
+      "title": "Ham on Rye by Charles Bukowski",
+      "url": "/book/show/6563889-ham-on-rye"
+    }
+  ],
+  "2017": [
+    {
+      "img": "https://images.gr-assets.com/books/1322539112l/12891107.jpg",
+      "title": "King of Thorns by Mark  Lawrence",
+      "url": "/book/show/12891107-king-of-thorns"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1327928082l/285092.jpg",
+      "title": "High Fidelity by Nick Hornby",
+      "url": "/book/show/285092.High_Fidelity"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1342620030l/11764721.jpg",
+      "title": "Good Intentions by Elliott Kay",
+      "url": "/book/show/11764721-good-intentions"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1465623937l/30519186.jpg",
+      "title": "Oddjobs by Heide Goody",
+      "url": "/book/show/30519186-oddjobs"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1311990084l/1003801.jpg",
+      "title": "The Book of Proper Names by Amélie Nothomb",
+      "url": "/book/show/1003801.The_Book_of_Proper_Names"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1376105585l/18303925.jpg",
+      "title": "Natural Consequences by Elliott Kay",
+      "url": "/book/show/18303925-natural-consequences"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1475019992l/32296892.jpg",
+      "title": "Personal Demons by Elliott Kay",
+      "url": "/book/show/32296892-personal-demons"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1450640428l/22469404.jpg",
+      "title": "Pétronille by Amélie Nothomb",
+      "url": "/book/show/22469404-p-tronille"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1325028693l/38500.jpg",
+      "title": "Women by Charles Bukowski",
+      "url": "/book/show/38500.Women"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1356109058l/17075205.jpg",
+      "title": "Life Form by Amélie Nothomb",
+      "url": "/book/show/17075205-life-form"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1424999238l/51504.jpg",
+      "title": "Post Office by Charles Bukowski",
+      "url": "/book/show/51504.Post_Office"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1424082563l/23204893.jpg",
+      "title": "Contractor by Andrew  Ball",
+      "url": "/book/show/23204893-contractor"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1429932740l/25422809.jpg",
+      "title": "The Never Hero by T. Ellery Hodges",
+      "url": "/book/show/25422809-the-never-hero"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1438682042l/25342750.jpg",
+      "title": "Survival Quest by Vasily Mahanenko",
+      "url": "/book/show/25342750-survival-quest"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1446369242l/27404206.jpg",
+      "title": "The Kartoss Gambit by Vasily Mahanenko",
+      "url": "/book/show/27404206-the-kartoss-gambit"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1467702634l/30845793.jpg",
+      "title": "The Secret of the Dark Forest by Vasily Mahanenko",
+      "url": "/book/show/30845793-the-secret-of-the-dark-forest"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1476799158l/32687007.jpg",
+      "title": "The Phantom Castle by Vasily Mahanenko",
+      "url": "/book/show/32687007-the-phantom-castle"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1429908250l/24170475.jpg",
+      "title": "End Online by D. Wolfin",
+      "url": "/book/show/24170475-end-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1437931579l/24689632.jpg",
+      "title": "End Online by D. Wolfin",
+      "url": "/book/show/24689632-end-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1442448389l/26177357.jpg",
+      "title": "End Online by D. Wolfin",
+      "url": "/book/show/26177357-end-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1437931577l/25494330.jpg",
+      "title": "End Online by D. Wolfin",
+      "url": "/book/show/25494330-end-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1453130399l/28596535.jpg",
+      "title": "End Online by D. Wolfin",
+      "url": "/book/show/28596535-end-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1471457937l/31545816.jpg",
+      "title": "End Online by D Wolfin",
+      "url": "/book/show/31545816-end-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1461354651l/15839976.jpg",
+      "title": "Red Rising by Pierce Brown",
+      "url": "/book/show/15839976-red-rising"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1394684475l/18966819.jpg",
+      "title": "Golden Son by Pierce Brown",
+      "url": "/book/show/18966819-golden-son"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1423327433l/24685115.jpg",
+      "title": "Morning Star by Pierce Brown",
+      "url": "/book/show/24685115-morning-star"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1365739939l/17267695.jpg",
+      "title": "Emperor of Thorns by Mark  Lawrence",
+      "url": "/book/show/17267695-emperor-of-thorns"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1480993656l/33268363.jpg",
+      "title": "El Señor del Sabbath by Mariana Palova",
+      "url": "/book/show/33268363-el-se-or-del-sabbath"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1455140434l/28684704.jpg",
+      "title": "Dark Matter by Blake Crouch",
+      "url": "/book/show/28684704-dark-matter"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1456555020l/26152638.jpg",
+      "title": "Spelunky by Derek Yu",
+      "url": "/book/show/26152638-spelunky"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1327866409l/2526.jpg",
+      "title": "Blindness by José Saramago",
+      "url": "/book/show/2526.Blindness"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1371649884l/18103888.jpg",
+      "title": "Mogworld by Yahtzee Croshaw",
+      "url": "/book/show/18103888-mogworld"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1422123602l/24675861.jpg",
+      "title": "AlterWorld by D. Rus",
+      "url": "/book/show/24675861-alterworld"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1422126482l/24676227.jpg",
+      "title": "The Clan by D. Rus",
+      "url": "/book/show/24676227-the-clan"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1422126828l/24676269.jpg",
+      "title": "The Duty by D. Rus",
+      "url": "/book/show/24676269-the-duty"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1435810491l/25251678.jpg",
+      "title": "Inferno by D. Rus",
+      "url": "/book/show/25251678-inferno"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1440507649l/26110679.jpg",
+      "title": "The Battle by D. Rus",
+      "url": "/book/show/26110679-the-battle"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1439580990l/23305635.jpg",
+      "title": "The War by D. Rus",
+      "url": "/book/show/23305635-the-war"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1349934413l/11571298.jpg",
+      "title": "Thirteen Reasons Why by Jay Asher",
+      "url": "/book/show/11571298-thirteen-reasons-why"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1461879487l/30052225.jpg",
+      "title": "The Ultimation by D. Rus",
+      "url": "/book/show/30052225-the-ultimation"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1296251713l/5882515.jpg",
+      "title": "American Gods by Neil Gaiman",
+      "url": "/book/show/5882515-american-gods"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1329061522l/18131.jpg",
+      "title": "A Wrinkle in Time by Madeleine L'Engle",
+      "url": "/book/show/18131.A_Wrinkle_in_Time"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1521817956l/119787.jpg",
+      "title": "Fahrenheit 451 by Ray Bradbury",
+      "url": "/book/show/119787.Fahrenheit_451"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1484234316l/33843955.jpg",
+      "title": "The Karmadont Chess Set by Vasily Mahanenko",
+      "url": "/book/show/33843955-the-karmadont-chess-set"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1486921647l/34234639.jpg",
+      "title": "The Land by Aleron Kong",
+      "url": "/book/show/34234639-the-land"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1486922083l/34234675.jpg",
+      "title": "The Land by Aleron Kong",
+      "url": "/book/show/34234675-the-land"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1486922227l/34234687.jpg",
+      "title": "The Land by Aleron Kong",
+      "url": "/book/show/34234687-the-land"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1486922747l/34234731.jpg",
+      "title": "The Land by Aleron Kong",
+      "url": "/book/show/34234731-the-land"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1473306760l/31885638.jpg",
+      "title": "The Land by Aleron Kong",
+      "url": "/book/show/31885638-the-land"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1485663049l/34040263.jpg",
+      "title": "The Land by Aleron Kong",
+      "url": "/book/show/34040263-the-land"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1441741634l/25361235.jpg",
+      "title": "A Virtual Dream by Brent Roth",
+      "url": "/book/show/25361235-a-virtual-dream"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1483999196l/33827079.jpg",
+      "title": "Catharsis by Travis Bagwell",
+      "url": "/book/show/33827079-catharsis"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1447328112l/27766475.jpg",
+      "title": "Shadows in the Flame by Brent Roth",
+      "url": "/book/show/27766475-shadows-in-the-flame"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1441853268l/25996476.jpg",
+      "title": "Ashes of the Fallen by Brent Roth",
+      "url": "/book/show/25996476-ashes-of-the-fallen"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1484163222l/33839035.jpg",
+      "title": "Precipice by Travis Bagwell",
+      "url": "/book/show/33839035-precipice"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1482105999l/33412911.jpg",
+      "title": "Cataclysm by James A. Hunter",
+      "url": "/book/show/33412911-cataclysm"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1487648009l/34359020.jpg",
+      "title": "Crimson Alliance by James A. Hunter",
+      "url": "/book/show/34359020-crimson-alliance"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1496923029l/35388564.jpg",
+      "title": "The Jade Lord by James A. Hunter",
+      "url": "/book/show/35388564-the-jade-lord"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1452464907l/28507112.jpg",
+      "title": "Project Daily Grind by Alexey Osadchuk",
+      "url": "/book/show/28507112-project-daily-grind"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1463065655l/30175783.jpg",
+      "title": "The Citadel by Alexey Osadchuk",
+      "url": "/book/show/30175783-the-citadel"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1476202208l/32574948.jpg",
+      "title": "The Way of the Outcast by Alexey Osadchuk",
+      "url": "/book/show/32574948-the-way-of-the-outcast"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1475629452l/32455483.jpg",
+      "title": "Ascend Online by Luke Chmilenko",
+      "url": "/book/show/32455483-ascend-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1493602717l/35022145.jpg",
+      "title": "Hell to Pay by Luke Chmilenko",
+      "url": "/book/show/35022145-hell-to-pay"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1396665914l/21846804.jpg",
+      "title": "Into The Abyss by J.L. Langland",
+      "url": "/book/show/21846804-into-the-abyss"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1443047363l/25009393.jpg",
+      "title": "The Heavenly Host by J.L. Langland",
+      "url": "/book/show/25009393-the-heavenly-host"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1481057811l/33281151.jpg",
+      "title": "The Apostles of Doom by J.L. Langland",
+      "url": "/book/show/33281151-the-apostles-of-doom"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1502894193l/36051845.jpg",
+      "title": "Shaman's Revenge by Vasily Mahanenko",
+      "url": "/book/show/36051845-shaman-s-revenge"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1510977168l/36615533.jpg",
+      "title": "Imperial Legion by James A. Hunter",
+      "url": "/book/show/36615533-imperial-legion"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1399315771l/7945052.jpg",
+      "title": "Hygiene and the Assassin by Amélie Nothomb",
+      "url": "/book/show/7945052-hygiene-and-the-assassin"
+    }
+  ],
+  "2018": [
+    {
+      "img": "https://images.gr-assets.com/books/1423327433l/24685115.jpg",
+      "title": "Morning Star by Pierce Brown",
+      "url": "/book/show/24685115-morning-star"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1482475132l/33361943.jpg",
+      "title": "Iron Gold by Pierce Brown",
+      "url": "/book/show/33361943-iron-gold"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1518919183l/38608967.jpg",
+      "title": "The Land by Aleron Kong",
+      "url": "/book/show/38608967-the-land"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1515499443l/37877462.jpg",
+      "title": "Legacy of the Fallen by Luke Chmilenko",
+      "url": "/book/show/37877462-legacy-of-the-fallen"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1500930947l/9969571.jpg",
+      "title": "Ready Player One by Ernest Cline",
+      "url": "/book/show/9969571-ready-player-one"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1486695753l/28667890.jpg",
+      "title": "The Never Paradox by T. Ellery Hodges",
+      "url": "/book/show/28667890-the-never-paradox"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1374049948l/76778.jpg",
+      "title": "The Martian Chronicles by Ray Bradbury",
+      "url": "/book/show/76778.The_Martian_Chronicles"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1527202340l/40206384.jpg",
+      "title": "Evolution by Travis Bagwell",
+      "url": "/book/show/40206384-evolution"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1554437249l/6088007.jpg",
+      "title": "Neuromancer by William Gibson",
+      "url": "/book/show/6088007-neuromancer"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1518005859l/38449239.jpg",
+      "title": "Clans War by Vasily Mahanenko",
+      "url": "/book/show/38449239-clans-war"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1402987267l/22500562.jpg",
+      "title": "Fimbulwinter by E. William Brown",
+      "url": "/book/show/22500562-fimbulwinter"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1432735206l/25463180.jpg",
+      "title": "Black Coven by E. William Brown",
+      "url": "/book/show/25463180-black-coven"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1446993803l/27677891.jpg",
+      "title": "Extermination by E. William Brown",
+      "url": "/book/show/27677891-extermination"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1540304311l/42421971.jpg",
+      "title": "Thrall by E. William Brown",
+      "url": "/book/show/42421971-thrall"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1424082563l/23204893.jpg",
+      "title": "Contractor by Andrew  Ball",
+      "url": "/book/show/23204893-contractor"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1371649884l/18103888.jpg",
+      "title": "Mogworld by Yahtzee Croshaw",
+      "url": "/book/show/18103888-mogworld"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1342620030l/11764721.jpg",
+      "title": "Good Intentions by Elliott Kay",
+      "url": "/book/show/11764721-good-intentions"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1376105585l/18303925.jpg",
+      "title": "Natural Consequences by Elliott Kay",
+      "url": "/book/show/18303925-natural-consequences"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1475019992l/32296892.jpg",
+      "title": "Personal Demons by Elliott Kay",
+      "url": "/book/show/32296892-personal-demons"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1368473806l/17697128.jpg",
+      "title": "Provenance by Kristopher Cruz",
+      "url": "/book/show/17697128-provenance"
+    }
+  ],
+  "2019": [
+    {
+      "img": "https://images.gr-assets.com/books/1386385232l/19250258.jpg",
+      "title": "Ascension by Kristopher Cruz",
+      "url": "/book/show/19250258-ascension"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1421413281l/23636847.jpg",
+      "title": "Conviction by Kristopher Cruz",
+      "url": "/book/show/23636847-conviction"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1453221741l/28604258.jpg",
+      "title": "Resurgence by Kristopher Cruz",
+      "url": "/book/show/28604258-resurgence"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1476063034l/32509131.jpg",
+      "title": "Dungeon Born by Dakota Krout",
+      "url": "/book/show/32509131-dungeon-born"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1487339333l/34327194.jpg",
+      "title": "Dungeon Madness by Dakota Krout",
+      "url": "/book/show/34327194-dungeon-madness"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1508807614l/36466161.jpg",
+      "title": "Dungeon Calamity by Dakota Krout",
+      "url": "/book/show/36466161-dungeon-calamity"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1538579351l/42135309.jpg",
+      "title": "Dungeon Desolation by Dakota Krout",
+      "url": "/book/show/42135309-dungeon-desolation"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1480993656l/33268363.jpg",
+      "title": "El Señor del Sabbath by Mariana Palova",
+      "url": "/book/show/33268363-el-se-or-del-sabbath"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1400095217l/22088245.jpg",
+      "title": "NPCs by Drew  Hayes",
+      "url": "/book/show/22088245-npcs"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1437050967l/25920141.jpg",
+      "title": "Split the Party by Drew  Hayes",
+      "url": "/book/show/25920141-split-the-party"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1474117787l/32064513.jpg",
+      "title": "Going Rogue by Drew  Hayes",
+      "url": "/book/show/32064513-going-rogue"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1542719930l/42872185.jpg",
+      "title": "Siege Tactics by Drew  Hayes",
+      "url": "/book/show/42872185-siege-tactics"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1482105999l/33412911.jpg",
+      "title": "Cataclysm by James A. Hunter",
+      "url": "/book/show/33412911-cataclysm"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1487648009l/34359020.jpg",
+      "title": "Crimson Alliance by James A. Hunter",
+      "url": "/book/show/34359020-crimson-alliance"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1496923029l/35388564.jpg",
+      "title": "The Jade Lord by James A. Hunter",
+      "url": "/book/show/35388564-the-jade-lord"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1510977168l/36615533.jpg",
+      "title": "Imperial Legion by James A. Hunter",
+      "url": "/book/show/36615533-imperial-legion"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1522511399l/39691257.jpg",
+      "title": "The Lich Priest by James A. Hunter",
+      "url": "/book/show/39691257-the-lich-priest"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1547762641l/43603122.jpg",
+      "title": "Doom Forge by James A. Hunter",
+      "url": "/book/show/43603122-doom-forge"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1549942471l/42867841.jpg",
+      "title": "Dominion by Travis Bagwell",
+      "url": "/book/show/42867841-dominion"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1508733947l/36461143.jpg",
+      "title": "Awaken Online by Travis Bagwell",
+      "url": "/book/show/36461143-awaken-online"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1532656357l/40956725.jpg",
+      "title": "Apathy by Travis Bagwell",
+      "url": "/book/show/40956725-apathy"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1509053376l/36483019.jpg",
+      "title": "Level Up or Die! by Apollos Thorne",
+      "url": "/book/show/36483019-level-up-or-die"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1534633276l/41213501.jpg",
+      "title": "Through the Belly of the Beast by Apollos Thorne",
+      "url": "/book/show/41213501-through-the-belly-of-the-beast"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1549800835l/43905762.jpg",
+      "title": "Sanctuary by Apollos Thorne",
+      "url": "/book/show/43905762-sanctuary"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1519519880l/38739408.jpg",
+      "title": "Ritualist by Dakota Krout",
+      "url": "/book/show/38739408-ritualist"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1530636487l/40708807.jpg",
+      "title": "Regicide by Dakota Krout",
+      "url": "/book/show/40708807-regicide"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1545101492l/43258999.jpg",
+      "title": "Rexus by Dakota Krout",
+      "url": "/book/show/43258999-rexus"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1552618106l/44433385.jpg",
+      "title": "Bone Dungeon (Elemental Dungeon #1) - A Dungeon Core LitRPG by Jonathan Smidt",
+      "url": "/book/show/44433385-bone-dungeon-elemental-dungeon-1---a-dungeon-core-litrpg"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1548677535l/43726809.jpg",
+      "title": "Occultist by Oliver  Mayes",
+      "url": "/book/show/43726809-occultist"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1339772530l/15701981.jpg",
+      "title": "Critical Failures by Robert Bevan",
+      "url": "/book/show/15701981-critical-failures"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1437762312l/25971497.jpg",
+      "title": "The Dungeoneers by Jeffery Russell",
+      "url": "/book/show/25971497-the-dungeoneers"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1381823436l/18667253.jpg",
+      "title": "Critical Failures II by Robert Bevan",
+      "url": "/book/show/18667253-critical-failures-ii"
+    },
+    {
+      "img": "https://images.gr-assets.com/books/1408842353l/22963010.jpg",
+      "title": "Critical Failures III by Robert Bevan",
+      "url": "/book/show/22963010-critical-failures-iii"
+    }
+  ]
+}
