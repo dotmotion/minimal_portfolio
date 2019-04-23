@@ -49,6 +49,9 @@ ul {
 .inline li:last-child {
   margin-right: 0;
 }
+.inline li a:hover {
+  color: #b4afaf;
+}
 
 /* HEADER */
 header {
@@ -188,8 +191,14 @@ main {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
+}
+
+main h2 {
+  text-align: center;
+  width: 60%;
+  padding-bottom: 2rem;
 }
 
 main ul {
